@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: at.ac.tuwien.sepm.assignment.individual.universe.UniverseServiceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.009 s - in at.ac.tuwien.sepm.assignment.individual.universe.UniverseServiceTest
